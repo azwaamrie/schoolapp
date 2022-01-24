@@ -16,10 +16,10 @@ public class Student {
  	@Column(name="std_id") 
 	private int studentId;
 	
-	@Column(name="std_first_name") 
+	@Column(name="std_firstname") 
 	private String studentFirstName;
 	
-	@Column(name="std_last_name") 
+	@Column(name="std_lastname") 
 	private String studentLastName;
 	
 	@Column(name="std_course") 
